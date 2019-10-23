@@ -1,0 +1,4 @@
+my_num = 1+24
+my_string = "Ruby"
+puts my_num
+puts my_string

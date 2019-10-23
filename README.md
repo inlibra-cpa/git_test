@@ -1,4 +1,4 @@
-print "I finally made it!".upcase!
-puts "Hello future Programer!"
-puts 1+2
-print 1+2
+my_string "Hello User!"
+my_string "Inara"
+puts "Hello User!"
+print "Inara"
